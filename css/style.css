@@ -1,0 +1,163 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+header {
+  border-bottom: 1px solid rgb(179, 171, 171);
+  overflow: hidden;
+  padding-bottom: 0px;
+}
+.header_content {
+  width: 90%;
+  margin-left: 5%;
+}
+
+.logo img {
+  float: left;
+  padding: 0px;
+  width: 111px;
+}
+nav {
+  float: right;
+}
+
+nav p {
+  float: left;
+
+  padding-top: 14px;
+  font-size: 20px;
+  padding-left: 11px;
+}
+.main_contant {
+  text-align: center;
+  /* text-align: left; */
+}
+.main_contant_header {
+  width: 60%;
+  margin-left: 20%;
+}
+.main_contant_header h1:first-child {
+  padding-top: 17px;
+  font-size: 75px;
+}
+.main_contant_header h1:nth-child(2) {
+  color: #028bff;
+  font-size: 75px;
+}
+.main_contant_header p {
+  font-size: 13px;
+  padding: 14px;
+}
+.main_contant_header img {
+  width: 60%;
+}
+.middle_contant {
+  overflow: hidden;
+  width: 40%;
+  padding: 24px 0px;
+  margin: auto;
+  font-size: 20px;
+}
+.middle_contant_left {
+  float: left;
+  text-align: right;
+  width: 45%;
+  padding-right: 15px;
+}
+.middle_contant_left h1 {
+  color: red;
+  font-size: 62px;
+}
+.middle_contant_left p {
+  font-size: 19px;
+}
+.middle_contant_right {
+  float: left;
+  text-align: left;
+  width: 45%;
+  padding-left: 16px;
+  /* font-size: 62px; */
+}
+.middle_contant_right h1 {
+  font-size: 62px;
+}
+.last_contant {
+  text-align: center;
+  width: 85%;
+  margin: auto;
+  margin-top: 38px;
+  overflow: hidden;
+}
+.creativity_one {
+  width: 32%;
+  /* height: 500px; */
+  float: left;
+  background-color: #feebef;
+  padding-top: 60px;
+  /* text-align: left; */
+}
+.creativity_one img {
+  /* background-color: #FEEBEF; */
+  width: 70%;
+}
+.creativity_one h1 {
+  text-align: left;
+}
+.creativity_one p {
+  text-align: left;
+}
+.creativity_two {
+  width: 32%;
+  float: left;
+  background-color: #eaf9f4;
+  /* margin: 3%; */
+  margin-left: 2%;
+  /* text-align: left; */
+  padding-top: 60px;
+}
+.creativity_two img {
+  width: 77%;
+}
+.creativity_two h1 {
+  text-align: left;
+}
+.creativity_two p {
+  text-align: left;
+}
+.creativity_three {
+  width: 32%;
+  float: right;
+  background-color: #fff6ea;
+  padding-top: 60px;
+  /* text-align: left; */
+}
+.creativity_three img {
+  width: 69%;
+}
+
+.creativity_three h1 {
+  text-align: left;
+}
+
+.creativity_three p {
+  text-align: left;
+}
+footer {
+  background-color: #008bff;
+  text-align: center;
+  height: 49px;
+  margin-top: 54px;
+  padding-top: 26px;
+}
+footer p {
+  display: inline;
+  color: #d6cece;
+  font-size: 19px;
+}
+footer h1 {
+  display: inline;
+  color: #fff;
+  letter-spacing: 5px;
+  font-size: 23px;
+  padding: 0px 5px;
+}
